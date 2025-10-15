@@ -1,0 +1,70 @@
+{
+  "stock_symbol": "ADANIPOWER",
+  "company_name": "Adani Power Ltd",
+  "exchange": "NSE",
+  "market_data": {
+    "last_price": 330.25,
+    "open": 325.50,
+    "high": 335.00,
+    "low": 323.75,
+    "previous_close": 328.00,
+    "52_week_high": 450.00,
+    "52_week_low": 280.00,
+    "volume": 2500000,
+    "average_volume": 2000000
+  },
+  "fundamentals": {
+    "market_cap": 150000000000,
+    "pe_ratio": 12.5,
+    "pb_ratio": 1.8,
+    "eps": 26.4,
+    "dividend_yield": 0.8,
+    "roe": 14.5,
+    "debt_to_equity": 1.2,
+    "revenue": 110000000000,
+    "profit": 15000000000
+  },
+  "technical_indicators": {
+    "moving_averages": {
+      "ma_20": 328.0,
+      "ma_50": 322.5,
+      "ma_100": 315.0,
+      "ma_200": 300.0
+    },
+    "rsi_14": 55.0,
+    "macd": {
+      "macd_value": 5.2,
+      "signal": 3.5,
+      "histogram": 1.7
+    },
+    "bollinger_bands": {
+      "upper_band": 340.0,
+      "middle_band": 330.0,
+      "lower_band": 320.0
+    }
+  },
+  "volume_analysis": {
+    "average_5_day_volume": 2300000,
+    "average_10_day_volume": 2200000,
+    "volume_spike": true
+  },
+  "momentum": {
+    "atr_14": 8.5,
+    "adx_14": 22.0,
+    "stochastic_k": 70.0,
+    "stochastic_d": 65.0
+  },
+  "analyst_ratings": {
+    "buy": 8,
+    "hold": 6,
+    "sell": 2,
+    "target_price": 360.0
+  },
+  "news": [
+    {
+      "date": "2025-10-10",
+      "headline": "Adani Power secures new solar power contract in Rajasthan",
+      "link": "https://example.com/adani-power-news1"
+    }
+  ]
+}
